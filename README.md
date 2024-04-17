@@ -45,4 +45,5 @@ Exit
 - This program ensures data accuracy, encapsulation, and efficient sorting algorithms.
 - Error checking and exception handling are implemented to handle invalid user input and file reading errors.
 - The sorting algorithm used is custom-made to meet the program's requirements.
+
 This Project EMS application was developed by Nevil Dineshkumar Patel. The code is the intellectual property of the author, and any unauthorized copying, reproduction, or distribution is strictly prohibited.
